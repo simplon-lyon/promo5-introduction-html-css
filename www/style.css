@@ -1,0 +1,20 @@
+body {
+  font-family: "Verdana", sans-serif;
+  margin: 10px 50px 10px 50px;
+  background-color: #c3c3c3;
+}
+body > header {
+  background-color: #a1a1a1;
+}
+section {
+  background-color: #919191;
+}
+#body_footer {
+  background-color: #bada55;
+}
+.big_title {
+  font-size: 20px;
+}
+.small_title {
+  font-size: 15px;
+}
